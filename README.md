@@ -16,24 +16,18 @@ El resultado esperado se obtiene tras integrar satisfactoria todos los ejercicio
 Para realizar todos las practicas dentro del repositorio se debera de contar con los siguientes materiales:
 
 ## Hardware 
-- Arduino UNO
-- LCD 16×2
-- Protoboard
-- Modulo I2C
-- RTC DS1302
-- Cable USB a Mini USB
-- Servomotores 9g
-- Cable USB A/B
-- Push buttons
-- Baterías 9V
-- Jumpers
-- Buzzer
 - ESP32 CAM
-- FTDI TTL USB Serial converter FT232RL
-- Sensor de movimiento PIR
-- RFID-RC522
-- Tarjeta RFID
-- ESP8266
+- Protoboard
+- Modulo DHT11 (Sensor de temperatura y humedad)
+- Sensor de flujo de agua (YF-S201)
+- Sensor Ultrasonico (Hc-sr04)
+- Bomba de agua sumergible
+- Transistor NPN (BC547)
+- Cable USB a Mini US
+- Baterías 9V
+- Tubos de PVC
+- Contenedor
+- Jumpers
 
 ## Software
 - IDE Arduino
