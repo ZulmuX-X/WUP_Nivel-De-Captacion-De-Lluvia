@@ -31,19 +31,15 @@ Para realizar todos las practicas dentro del repositorio se debera de contar con
 
 ## Software
 - IDE Arduino
-- Telegram
 
 # Material de referencia 
 - [Plataforma IoT](https://edu.codigoiot.com/course/view.php?id=1039)
 - [Youtube SmartPill](https://youtu.be/fwuQnLMJ-to)
-- [Como hacer un bot de Telegram](https://blog.330ohms.com/2021/03/09/crea-tu-propio-bot-de-telegram-con-esp32/)
 - [Proyecto con Esp32 CAM y Sensor de Movimiento](https://www.youtube.com/watch?v=WOb1QoqDoiI)
-- [Universal Arduino Telegram Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
 
 # Servicios
 Para que realizar los ejercicios requeririas de los siguientes servicios:
-- ___IDE Arduino___ - Es un software de código abierto que facilita la escritura de código y su carga en la placa Arduino.
-- ___Telegram___ - Es un servicio de mensajería multiplataforma con encriptación y privacidad mejoradas.
+- ___IDE Arduino___ - Es un software de código abierto que facilita la escritura de código y su carga en la placa ESP-32 CAM.
 
 # Resultado
 A continuación se puede observar todos los sistemas integrados en un prototipo donde se pueden aprovechar las caracteristicas de cada uno de los sistemas.
@@ -53,6 +49,5 @@ A continuación se puede observar todos los sistemas integrados en un prototipo 
 
 # Créditos
 Este proyecto ha sido desarrollado por:
-- [Chaparro Salazar Eduardo Daniel](https://github.com/DanielChaparro82?tab=repositories)
-- [Ali Yasmin Zagal Hernández](https://github.com/YasminZagal?tab=repositories)
-- [Pedro Luis Romero Gómez](https://github.com/remorx20)
+- [Magdaleno Garcia Johan](https://github.com/ZulmuX-X)
+
