@@ -44,8 +44,15 @@ Para que realizar los ejercicios requeririas de los siguientes servicios:
 # Resultado
 A continuación se puede observar todos los sistemas integrados en un prototipo donde se pueden aprovechar las caracteristicas de cada uno de los sistemas.
 
-![Proto frente](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/2ddd29ae-13c3-4ac9-a0ea-dcff0d442d0f)
-![Prot de lado](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/92ab454e-d798-41e5-adce-72d7af243337)
+[![IMG-20240813-173045.jpg](https://i.postimg.cc/XJcH7kGJ/IMG-20240813-173045.jpg)](https://postimg.cc/8JcBZWbQ)
+
+[![IMG-20240812-132558-209432098899251.jpg](https://i.postimg.cc/5NPrCgPQ/IMG-20240812-132558-209432098899251.jpg)](https://postimg.cc/vcVXRrwG)
+
+[![IMG-20240813-165237.jpg](https://i.postimg.cc/JhXYSLRj/IMG-20240813-165237.jpg)](https://postimg.cc/McWYjgMG)
+
+[![IMG-20240813-194353.jpg](https://i.postimg.cc/1XvvDRK1/IMG-20240813-194353.jpg)](https://postimg.cc/1VN0QQTv)
+
+[![IMG-20240813-194343.jpg](https://i.postimg.cc/Kcfq6Qhp/IMG-20240813-194343.jpg)](https://postimg.cc/vD1t9rB5)
 
 # Créditos
 Este proyecto ha sido desarrollado por:
