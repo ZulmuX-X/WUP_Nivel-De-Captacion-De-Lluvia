@@ -1,7 +1,7 @@
 # WUP_Nivel-De-Captacion-De-Lluvia
-El dispensador de pastillas inteligente ___SmartPill___ es un proyecto que busca facilitar el cumplimiento y seguimiento de los tratamientos médicos de las personas que consumen fármacos de forma regular; por medio de un dispositivo que lo suministra en el tiempo y horario necesario para evitar así olvidos, errores o sobredosis. Pretende automatizar el proceso de autoadministración y control de medicamentos aumentando la confianza y seguridad de los usuarios con un sistema de control que puede ser monitoreado por vía remota.
+El dispensador de pastillas inteligente ___SmartPill___ es un proyecto que busca facilitar el cumplimiento y seguimiento de los tratamientos médicos de las personas que consumen fármacos de forma regular; por medio de un dispositivo que lo suministra en el tiempo y horario necesario para evitar así olvidos, errores o sobredosis. Pretende automatizar el proceso de autoadministración y control de medicamentos aumentando la confianza y seguridad de los usuarios con un sistema de control que puede ser monitoreado por vía remota.(Modificar)
 
-![SmartPill_20230810_175844_0000](https://github.com/DanielChaparro82/SmartPill-Dispensador-de-pastillas-inteligente/assets/135756954/3662ade3-0889-430e-9c89-2fefc8889005)
+[![00fa9f97-2f21-4544-aaf8-9bca76c5153e.jpg](https://i.postimg.cc/T1SK0QXY/00fa9f97-2f21-4544-aaf8-9bca76c5153e.jpg)](https://postimg.cc/wRXxTXvS)
 
 # Objetivos
 Consiste en realizar un dispensador de pastillas inteligente capaz de realizar lo siguiente:
@@ -11,7 +11,7 @@ Consiste en realizar un dispensador de pastillas inteligente capaz de realizar l
 3. Registrar los horarios en los que los pacientes toman sus medicamentos dentro de una base de datos.
 
 El resultado esperado se obtiene tras integrar satisfactoria todos los ejercicios.
-
+(Modificar)
 # Materiales
 Para realizar todos las practicas dentro del repositorio se debera de contar con los siguientes materiales:
 
