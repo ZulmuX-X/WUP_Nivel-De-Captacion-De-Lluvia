@@ -1,6 +1,8 @@
 # Introduccion
+Este proyecto utiliza varios sensores como el Modulo DHT11 (Sensor de temperatura y humedad), sensor de flujo de agua, sensor ultrasonico, entre otros dispositivos. Que funcionando en conjunto realizan el monitoreo de cuanta agua entra al contenedor y cuanto porcentaje existe del mismo, asu vez detecta los cambios de temperatura y humedad, mostrando los datos  en un sitio web podiendo moritorizar los cambios en tiempo real y a lo largo del tiempo.
 
 # Objetivo
+Combinar las tecnologias de deteccion de flujo de agua, nivel de agua, temperatura y humedad, comunicacion inalambrica y visualizacion grafica para dar solucion al monitoreo en tiempo real facil de usar y accesible.
 
 # Materiales
 ## Hardware 
@@ -21,5 +23,14 @@
 - IDE Arduino
 
 # Requisitos previos
+## IDE Arduino
+Para poder subir el codigo a nuestro ESP-32 CAM. Requerimos tener previamente instalado el software IDE Arduino.
+[Arduino Software](https://www.arduino.cc/en/software)
+
+```python
+sudo apt install arduino arduino-core
+```
+
+## Agregar tarjeta EPS32
 
 # Instrucciones
