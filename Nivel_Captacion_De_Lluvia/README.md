@@ -30,7 +30,9 @@ Para poder subir el codigo a nuestro ESP-32 CAM. Requerimos tener previamente in
 ```python
 sudo apt install arduino arduino-core
 ```
-
 ## Agregar tarjeta EPS32
-
+[![image.png](https://i.postimg.cc/MZg0LP9S/image.png)](https://postimg.cc/s19ZQcF6)
+[![image.png](https://i.postimg.cc/5t98zZ2w/image.png)](https://postimg.cc/3k6y5fpR)
+[![image.png](https://i.postimg.cc/FK17NmKn/image.png)](https://postimg.cc/4KkJQDVz)
+[![image.png](https://i.postimg.cc/FK17NmKn/image.png)](https://postimg.cc/4KkJQDVz)
 # Instrucciones
