@@ -22,7 +22,7 @@ Para realizar todos las practicas dentro del repositorio se debera de contar con
 - Sensor de flujo de agua (YF-S201)
 - Sensor Ultrasonico (Hc-sr04)
 - Bomba de agua sumergible
-- Transistor NPN (BC547)
+- Transistor PNP (2N2222)
 - Cable USB a Mini US
 - Baterías 9V
 - Tubos de PVC
@@ -44,11 +44,9 @@ Para que realizar los ejercicios requeririas de los siguientes servicios:
 # Resultado
 A continuación se puede observar todos los sistemas integrados en un prototipo donde se pueden aprovechar las caracteristicas de cada uno de los sistemas.
 
-[![IMG-20240813-173045.jpg](https://i.postimg.cc/XJcH7kGJ/IMG-20240813-173045.jpg)](https://postimg.cc/8JcBZWbQ)
+[![IMG-20240812-220607.jpg](https://i.postimg.cc/zvzdLHKk/IMG-20240812-220607.jpg)](https://postimg.cc/njWKgzds)
 
 [![IMG-20240812-132558-209432098899251.jpg](https://i.postimg.cc/5NPrCgPQ/IMG-20240812-132558-209432098899251.jpg)](https://postimg.cc/vcVXRrwG)
-
-[![IMG-20240813-165237.jpg](https://i.postimg.cc/JhXYSLRj/IMG-20240813-165237.jpg)](https://postimg.cc/McWYjgMG)
 
 [![IMG-20240813-194353.jpg](https://i.postimg.cc/1XvvDRK1/IMG-20240813-194353.jpg)](https://postimg.cc/1VN0QQTv)
 
