@@ -1,8 +1,31 @@
+/*Medidor de captacion de agua
+* Por: Johan Magdaleno 
+* Fecha: 13 de agosto del 2024
+* 
+* Este un programa para obtener distintas lecturas como la temperatura, humedad, flujo de agua
+* y nivel de agua, el cual detecta la captacion de agua de lluvia, midiendo a su vez el nivel 
+* de la misma. El cual se regula su nivel dependiendo de si esta cerca del 100% de su capacidad
+* o hay una temperatua alta, la cual utiliza el agua para regual el entorno.
+* El objetivo principal es enviar estos datos a un sitio web donde nos mostrara los valores y 
+* nos genera unos graficos para hace aproximaciones de cuanta agua se capta y cual es la 
+* probabilidad de lluvia. Tambien tiene como objetivo resguardar el agua en periodos de sequia
+* asi concientisando a las personas del agua que se gasta y se necesita.
+*
+* Configuracion del hardware:
+* Sensor de temp y hum ------ DHT11 ------ IN ------ IO15
+* Sensor de flujo de agua ------ YF-S201 ------ IN ------ IO13
+* Sensor de ultrasonico (Nivel de agua) ------ Hc-sr04 ------ IN-OUT ------ IO12 - IO14
+* Bomba de agua ------ 5 V ------ OUT ------ IO2
+* Vcc ------ 5V - 3.3V
+* GND ------ GND */
+
+// Librerias
 #include <WiFi.h>
 #include <PubSubClient.h>
-#include <DHT.h>
+#include <DHT.h>      // Libreria DHT11
 #include <NewPing.h>  // Librería para el sensor ultrasónico
 
+// Constantes de pin
 #define DHTPIN 15          // Pin donde está conectado el DHT11
 #define DHTTYPE DHT11      // Tipo de sensor DHT
 #define FLOW_PIN 13        // Pin del sensor de flujo de agua
@@ -132,6 +155,7 @@ boolean reconnect() {
   return client.connected();
 }
 //-------------------------------------------------------------------------------------//
+//Inicializacion del programa
 void setup() {
   Serial.begin(115200);
   dht.begin();
@@ -150,6 +174,7 @@ void setup() {
   lastReconnectAttempt = timeLast; // Control de secuencias de tiempo
 }
 //----------------------------------------------------------------------------------------------------//
+// Bucle principal - Cuerpo del programa
 void loop() {
   timeNow = millis();
 
@@ -182,7 +207,7 @@ void loop() {
       flow_frequency = 0;
       attachInterrupt(digitalPinToInterrupt(FLOW_PIN), flow, RISING);
 
-      if (waterLevel >= 90) {
+      if (waterLevel >= 90 || t >= 37) {
         digitalWrite(PUMP_PIN, HIGH);
         delay(10000);
       } else {
