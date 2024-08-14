@@ -1,17 +1,21 @@
 # WUP_Nivel-De-Captacion-De-Lluvia
-El dispensador de pastillas inteligente ___SmartPill___ es un proyecto que busca facilitar el cumplimiento y seguimiento de los tratamientos médicos de las personas que consumen fármacos de forma regular; por medio de un dispositivo que lo suministra en el tiempo y horario necesario para evitar así olvidos, errores o sobredosis. Pretende automatizar el proceso de autoadministración y control de medicamentos aumentando la confianza y seguridad de los usuarios con un sistema de control que puede ser monitoreado por vía remota.(Modificar)
+El dispositvo __WUP__ (Captacion de lluvia) es un proyecto que puede llegar a resolver problemas como la escasez de agua, sostenibilidad e inundaciones;
+Al recolectar, almacenar y utilizar el agua de lluviar de manera eficiente y sostenible, contibuyendo a la seguridad alientaria,
+el ahorrro de costos y la conciencia ambiental. Ademas, la informacion recopilada por el dispositivo llegaria ser util para hacer
+concienencia y sostentabilidad del agua, hacer predicciones ambientales y mejora en la tecnologias. 
 
 [![00fa9f97-2f21-4544-aaf8-9bca76c5153e.jpg](https://i.postimg.cc/T1SK0QXY/00fa9f97-2f21-4544-aaf8-9bca76c5153e.jpg)](https://postimg.cc/wRXxTXvS)
 
 # Objetivos
-Consiste en realizar un dispensador de pastillas inteligente capaz de realizar lo siguiente:
+Consiste en realizar un sitema inteligente capaz de realizar lo siguiente:
 
-1. Suministrar medicamentos a las personas que lo necesiten en el tiempo que les fue asignado.
-2. Generar evidencia fotografica que ayude a llevar el seguimiento del paciente por medio de sensores.
-3. Registrar los horarios en los que los pacientes toman sus medicamentos dentro de una base de datos.
+1. Optimizar el uso del agua de lluvia mediante un dispositivo de captacion que mide la recoleeccion.
+2. Resolver problemas de escasez hidrica,inundadciones y dar sustentabilidad.
+3. Monitoreo y analizis de la captacion de agua de lluvia.
+4. Promover la conciencia ambiental .
 
-El resultado esperado se obtiene tras integrar satisfactoria todos los ejercicios.
-(Modificar)
+El resultado esperado se obtiene tras integrar satisfactoria los sistemas.
+
 # Materiales
 Para realizar todos las practicas dentro del repositorio se debera de contar con los siguientes materiales:
 
