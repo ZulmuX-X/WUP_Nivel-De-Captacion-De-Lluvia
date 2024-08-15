@@ -48,7 +48,7 @@ Para que realizar los ejercicios requeririas de los siguientes servicios:
 # Resultado
 A continuación se puede observar todos los sistemas integrados en un prototipo donde se pueden aprovechar las caracteristicas de cada uno de los sistemas.
 
-## VErsion 1.0
+## Version 1.0
 [![IMG-20240812-220607.jpg](https://i.postimg.cc/zvzdLHKk/IMG-20240812-220607.jpg)](https://postimg.cc/njWKgzds)
 
 [![IMG-20240812-132558-209432098899251.jpg](https://i.postimg.cc/5NPrCgPQ/IMG-20240812-132558-209432098899251.jpg)](https://postimg.cc/vcVXRrwG)
@@ -59,7 +59,6 @@ A continuación se puede observar todos los sistemas integrados en un prototipo 
 [![IMG-20240813-194343.jpg](https://i.postimg.cc/Kcfq6Qhp/IMG-20240813-194343.jpg)](https://postimg.cc/vD1t9rB5)
 
 ## Meta
-A futuro
 [![image.png](https://i.postimg.cc/PqMwKhq6/image.png)](https://postimg.cc/bGsrN7kb)
 
 # Créditos
