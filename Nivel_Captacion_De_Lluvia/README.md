@@ -64,3 +64,4 @@ sudo apt-get install mysql-server
 ```
 # Instrucciones
 ## Circuito sugerido
+[![image.png](https://i.postimg.cc/Gp7QMcBL/image.png)](https://postimg.cc/hJmTvRb6)
