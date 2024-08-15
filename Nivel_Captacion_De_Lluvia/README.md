@@ -84,4 +84,27 @@ Despues de haber cargado  el codigo debemos subir el programa a la ESP32-CAM
 
 Una vez se termine de subir el programa desconectaremos el puente del modo programacion y reiniciaremos la ESP32 para que ejecute el programa.
 
+# Resultados Node-Red
+Una vez se haya subirdo el codigo podremos visualizar de forma visual en Node-Red.
+
+Antes de verlo necesitaremos iniciar noder red en una terminal:
+```python
+node-red
+```
+Tambien debremos configurar los nodos de la sig manera (sugerencia):
+
+[![image.png](https://i.postimg.cc/9QzKCNGQ/image.png)](https://postimg.cc/0zRcCnWT)
+
+Esto lo puenden importar con el archivo "flows.json".
+
+Una vez realizado todo lo anterior podremos visualizar el proyecto Node-Red UI
+
+http://192.168.1.105:1880/ui (Esto dependera de la ip donde se este ejecutando el Node-Red)
+
+[![image.png](https://i.postimg.cc/Yq0bWLjX/image.png)](https://postimg.cc/4mC6Cd6t)
+
 # Referencias externas
+* https://nodered.org/docs/getting-started/raspberrypi
+* https://www.mysql.com/
+* https://www.codigoiot.com/
+* https://fritzing.org/download/
