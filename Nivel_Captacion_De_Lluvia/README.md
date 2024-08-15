@@ -63,5 +63,25 @@ Este comando puede variar por *mariadb*
 sudo apt-get install mysql-server
 ```
 # Instrucciones
+Para entrar en el modo programacion de la ESP32-CAM puentearemos el IO0 con un GND y lo energizaremos.
+
 ## Circuito sugerido
 [![image.png](https://i.postimg.cc/Gp7QMcBL/image.png)](https://postimg.cc/hJmTvRb6)
+
+Una ves descargado y abrierto el codigo en el IDE Arduino se debera seleccionar los siguientes parametro en la pestaña __Tools__:
+- Board: "AI Thinker ESP32-CAM"
+- CPU Frequency: "240MHz (Wifi/BT)"
+- Flash Frequency: "80MHz"
+- Flash Mode: "QIO"
+- Partition Scheme: "Huge APP (3MB No OTA/1MB SPIFFS)"
+
+[![image.png](https://i.postimg.cc/fbzscvX4/image.png)](https://postimg.cc/tsM8yW2D)
+
+Estos pasos se pueden hacer en un rasberry pi como en cualquier otro sistema operativo.
+Despues de haber cargado  el codigo debemos subir el programa a la ESP32-CAM
+
+[![image.png](https://i.postimg.cc/SKghDz7n/image.png)](https://postimg.cc/B8Pkvbz3)
+
+Una vez se termine de subir el programa desconectaremos el puente del modo programacion y reiniciaremos la ESP32 para que ejecute el programa.
+
+# Referencias externas
