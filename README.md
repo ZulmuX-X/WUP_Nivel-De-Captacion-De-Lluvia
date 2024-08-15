@@ -38,8 +38,8 @@ Para realizar todos las practicas dentro del repositorio se debera de contar con
 
 # Material de referencia 
 - [Plataforma IoT](https://edu.codigoiot.com/course/view.php?id=1039)
-- [Youtube SmartPill](https://youtu.be/fwuQnLMJ-to)
-- [Proyecto con Esp32 CAM y Sensor de Movimiento](https://www.youtube.com/watch?v=WOb1QoqDoiI)
+- [WUP](https://youtu.be/fwuQnLMJ-to)
+- [Proyecto con Esp32 CAM y Sensor ultrasonico](https://www.youtube.com/watch?v=VobYZbzTXzc&t=25s)
 
 # Servicios
 Para que realizar los ejercicios requeririas de los siguientes servicios:
@@ -48,13 +48,19 @@ Para que realizar los ejercicios requeririas de los siguientes servicios:
 # Resultado
 A continuación se puede observar todos los sistemas integrados en un prototipo donde se pueden aprovechar las caracteristicas de cada uno de los sistemas.
 
+## VErsion 1.0
 [![IMG-20240812-220607.jpg](https://i.postimg.cc/zvzdLHKk/IMG-20240812-220607.jpg)](https://postimg.cc/njWKgzds)
 
 [![IMG-20240812-132558-209432098899251.jpg](https://i.postimg.cc/5NPrCgPQ/IMG-20240812-132558-209432098899251.jpg)](https://postimg.cc/vcVXRrwG)
 
+## Version 2.0
 [![IMG-20240813-194353.jpg](https://i.postimg.cc/1XvvDRK1/IMG-20240813-194353.jpg)](https://postimg.cc/1VN0QQTv)
 
 [![IMG-20240813-194343.jpg](https://i.postimg.cc/Kcfq6Qhp/IMG-20240813-194343.jpg)](https://postimg.cc/vD1t9rB5)
+
+## Meta
+A futuro
+[![image.png](https://i.postimg.cc/PqMwKhq6/image.png)](https://postimg.cc/bGsrN7kb)
 
 # Créditos
 Este proyecto ha sido desarrollado por:
