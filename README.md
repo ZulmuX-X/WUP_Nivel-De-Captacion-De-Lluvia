@@ -38,7 +38,7 @@ Para realizar todos las practicas dentro del repositorio se debera de contar con
 
 # Material de referencia 
 - [Plataforma IoT](https://edu.codigoiot.com/course/view.php?id=1039)
-- [WUP](https://www.youtube.com/watch?v=d7cOTUVM4jU)
+- [WUP - YOUTUBE](https://www.youtube.com/watch?v=d7cOTUVM4jU)
 - [Proyecto con Esp32 CAM y Sensor ultrasonico](https://www.youtube.com/watch?v=VobYZbzTXzc&t=25s)
 
 # Servicios
